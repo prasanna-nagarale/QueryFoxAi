@@ -70,7 +70,7 @@ A production-ready document intelligence system that combines Retrieval Augmente
 ### Local Setup (Recommended for Development)
 ```bash
 # 1. Clone repository
-git clone https://github.com/[your-username]/QueryFox.git
+git clone https://github.com/prasanna-nagarale/QueryFoxAi.git
 cd QueryFox
 
 # 2. Create environment file
@@ -103,7 +103,7 @@ streamlit run app.py
 ### Docker Setup (Recommended for Production)
 ```bash
 # 1. Clone and configure
-git clone https://github.com/[your-username]/QueryFox.git
+git clone https://github.com/prasanna-nagarale/QueryFoxAi.git
 cd QueryFox
 cp .env.example .env
 # Add your API keys to .env
